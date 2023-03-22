@@ -1,4 +1,4 @@
-# Justworks Take Home Test ReadMe
+# CSV Bank Summary 
 By: Khalid Hamu
 ___
 This is a program written in python to take in data from an csv and output a summary into a new csv.
